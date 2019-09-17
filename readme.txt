@@ -1,1 +1,5 @@
 "Hey!"
+"My name is Natalie?"
+"i go to av"
+"i like math"
+"This is so cool!"
